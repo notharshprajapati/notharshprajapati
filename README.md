@@ -1,20 +1,46 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Delhi, India.
+#### I’m a Full-Stack Developer based in Delhi, India.
 
-##### NOW
+##### ABOUT ME
 
-- 🎓 A forth year, BTech CSE student at MSIT;
-- ✨ Crafted last [Portfolio](https://notharshprajapati.vercel.app/) website;
-- 🍑 Constantly looking for opportunities to acquire new technical skills.
+- 🎓 **B.Tech CSE Graduate – MSIT 19-23**
+- 💼 Currently working as a **Software Developer at 3D ENGINERD**
+- 🧭 Building scalable, user-centric products with strong UI/UX focus
 
-##### BIO
+##### WHAT I DO
 
-- 🏢 I'm currently working at **Mad Over Tech**
-- ⚙️ I use daily: `.jsx`, `.html`, `.css`, `.blend`, `.psd`, `.ai`
-- 🌍 I'm mostly active on [India Sales](https://isase.vercel.app/)
-- 💅 Clients : [India Sales](https://isase.vercel.app/), [BBQ-Project](https://the-barbeque-project.vercel.app/), [Mad-Over-Tech](https://interactive-floor-map.el.r.appspot.com/), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **3D**, **Web Dev**, **App Dev**, **design thinking**
-- 📫 Reach me: [twitter.com/harsh0243](https://twitter.com/harsh0243)
-- ⚡️ Fun fact: I'm a huge fan of Madeon music
+- 💻 Full-Stack Web & App Development  
+- 🎨 UI/UX + 3D Design  
+- 🚀 Creating clean, performant interfaces for clients and startups
+
+##### RECENT WORK
+
+- 🪪 Latest Portfolio → **https://notharshprajapati.vercel.app/**
+- 🛠️ Projects & Clients:
+  - **3D ENGINERD** - Ship mooring Simulation, 3d web view project
+  - **IVY Infinity** - Drone simulator on React three fiber
+  - **India Sales** – Enterprise Web App  
+  - **BBQ Project** – Restaurant Web Platform  
+  - **Mad Over Tech** – Interactive Floor Map  
+  - …and more
+
+##### TECH & TOOLS
+
+- ⚙️ Daily stack:
+  - JS/TS, React, Next.js
+  - HTML, CSS, Tailwind
+  - Blender (`.blend`), Photoshop (`.psd`), Illustrator (`.ai`)
+
+##### CURRENTLY
+
+- 🌱 Learning: **Open Source & Modern JS Frameworks**
+- ✨ Exploring: **3D + Web Interactions**
+- 🧩 Always looking to grow & collaborate
+
+##### CONTACT
+
+- 📫 Twitter: **https://twitter.com/harsh0243**
+- 🌐 Active on: India Sales community
+- 💬 Ping me for: **Design, Web, Apps, 3D, Design Thinking**
+- 🧘‍♂️ Outside work: Gym, Music, Reading
